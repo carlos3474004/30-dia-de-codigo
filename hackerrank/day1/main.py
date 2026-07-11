@@ -8,6 +8,11 @@
 
 # Concatenate and print the String variables on a new line
 # The 's' variable above should be printed first.
+i = int (input())
+
+d = float(input())
+
+s = input()
 
 i2 = int(input())
 d2 = float(input())
