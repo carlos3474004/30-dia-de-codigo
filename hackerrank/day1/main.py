@@ -8,18 +8,19 @@
 
 # Concatenate and print the String variables on a new line
 # The 's' variable above should be printed first.
-i = int (input())
 
-d = float(input())
 
-s = input()
 
-i2 = int(input())
-d2 = float(input())
-s2 = input()
+numero_entero = int (input("introduce el primer numero entero: "))
+entero_sumar = int(input("introduce el segundo entero a sumar: "))
 
-print(i + i2)
+numero_decimal = float (input("introduce el primer numero decimal: "))
+decimal_sumar = float(input("introduce el segundo decimal: "))
 
-print(d + d2)
+texto = input ("introduce el texto: ")
 
-print(s + s2)
+print(numero_entero + entero_sumar)
+
+print(numero_decimal + decimal_sumar)
+
+print(texto)

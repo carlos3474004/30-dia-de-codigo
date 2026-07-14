@@ -1,9 +1,9 @@
 
 
-nombre = input("por favor, escribre tu nombre aqui:") 
+nombre = input("por favor, escribre tu nombre aqui: ") 
 
 
 print('hola')
 
 
-print (f"bienvenido:{nombre} ")
+print (f"bienvenido: {nombre} ")
