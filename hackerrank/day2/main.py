@@ -9,7 +9,7 @@ import sys
 
 
 def solve(meal_cost, tip_percent, tax_percent):
-    # Write your code here
+    
     comida = meal_cost
     propina = meal_cost * (tip_percent/100)
     inpuesto = meal_cost * (tax_percent/100)
